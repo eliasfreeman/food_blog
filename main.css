@@ -196,7 +196,7 @@ main {
 }
 
 .main-text p {
-  width: 22rem;
+  max-width: 22rem;
 }
 
 .main-footer {
@@ -286,7 +286,7 @@ section {
   }
 
   .main-blog {
-    flex: 1 0 60%;
+    flex: 0 0 60%;
   }
 
   .aside-section {
