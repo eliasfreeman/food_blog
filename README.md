@@ -1,2 +1,1 @@
-# food_blog
-mini food blog
+A food blog mini page
